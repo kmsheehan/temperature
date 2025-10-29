@@ -18,3 +18,7 @@ target/*
 /target
 /bin
 *.orig
+
+.DS_Store
+Thumbs.db
+.vscode/
